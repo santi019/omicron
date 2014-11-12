@@ -1,0 +1,4 @@
+omicron
+=======
+
+proyecto univercitario
